@@ -16,7 +16,7 @@ nav a {margin-left:20pt; color:white; text-shadow:0 0 10px black;}
 nav a:hover, a.active {color:#00aeff;}
 
 /*헤더*/
-#top {height:50vh; background:url("../images/bg.jpg") no-repeat fixed center top / cover;}
+#top {height:100vh; background:url("../images/bg.jpg") no-repeat fixed center top / cover;}
 #typing{padding:40vh 1px 0 1px; color:white; text-align:center; line-height:160%; font-size:2.5rem; height:60vh; text-shadow:0 1px 10px black; font-family: 'Libre Baskerville', serif; font-weight:bold;}
 #scroll {max-width:100px; margin:auto; margin-top:30vh; text-align:center;}
 #top i {font-size:2.5rem; color:white; display:block; animation:down 1s infinite both;}
@@ -33,7 +33,7 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 
 /*About*/
 #about {background:#eee;}
-#about img {width:250pt; margin:0pt auto; }
+#about img {width:250pt; margin:0pt auto; height:80vh; }
 #about> p {max-width:150pt; margin:auto; text-align:center;}
 #about  q {font-weight:bold; font-size:1.2rem; line-height:200%;}
 #about> div {max-width:900pt; margin:auto; display:flex;}
