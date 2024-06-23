@@ -40,7 +40,7 @@
 	});
 	
 	//상단 한글자씩 나오는 기능 (타자치는 효과)
-	const typing = "Hi ~ \n My name is EunBin.\n I'm a Web designer !"
+	const typing = "Hi ~ \n My name is EunBin."
 	console.log(typing);
 	//$("h1").html( typing[4]  );  "요"
 	let i = 0; 
