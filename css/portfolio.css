@@ -13,7 +13,7 @@ nav.act {background:#010101;}
 nav> div {max-width:1490px; margin:auto; display:flex;}
 nav p {flex:1; font-size:1.2rem; color:white; text-shadow:0 0 10px black; }
 nav a {margin-left:20pt; color:white; text-shadow:0 0 10px black;}
-nav a:hover, a.active {color:#00aeff;}
+nav a:hover, a.active {color:#619820;}
 
 /*헤더*/
 #top {height:100vh; background:url("../images/bg.jpg") no-repeat fixed center top / cover;}
